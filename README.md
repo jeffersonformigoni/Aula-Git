@@ -8,3 +8,6 @@ This stage learning:
 - Git initualization
 - Git Add and Coomit chances
 - Show commits log.
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-formigoni-ara%C3%BAjo-862024122/?trk=public-profile-join-page)
